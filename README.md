@@ -268,7 +268,7 @@
   </tr>
   <tr>
     <td colspan="2">همگام سازی با تبچی</td>
-    <td align="center">به <a href="https://telegram.me/i_advertiser/7">آموزش</a> موجود در کانال سر بزنید..</td>
+    <td align="center">به <a href="https://telegram.me/GrandTeam">آموزش</a> موجود در کانال سر بزنید..</td>
   </tr>
 </table>
 <h6 dir="rtl">اساس کار تبلیغ‌گر تشخیص لینک و عضویت در هر گروه‌ها و پیروی از دستورات تعیین شده است.</h6>
@@ -318,7 +318,7 @@
 <br>
 <h2 dir="rtl">پشتیبانی
 <hr>
-<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ GrandTeam ♚ <a href="https://telegram.me/Mr_B_L_A_C_K_Life"> @Mr_B_L_A_C_K_Life </a> <a href="https://telegram.me/Naji_MessengerRobot"> @Naji_MessengerRobot</a>
+<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ GrandTeam ♚ <a href="https://telegram.me/Mr_B_L_A_C_K_Life"> @Mr_B_L_A_C_K_Life </a> <a href="https://telegram.me/Amiralipv_bot"> @Naji_MessengerRobot</a>
 <br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
 <a href="https://telegram.me/GrandTeam"> @GrandTeam</a>
 </h4>
